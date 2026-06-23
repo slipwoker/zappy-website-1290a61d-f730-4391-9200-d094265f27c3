@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-1290a61d.zappy5.app
+https://example.com
 סובלים מטחורים? גלו את שמן הפלא שמביא תוצאות תוך 24 שעות מרגע המריחה. טיפול טבעי, מהיר ויעיל שיחזיר לכם את השקט. הקליקו עכשיו והתחילו להרגיש טוב יותר!
 
 ### הטבות
-https://-1290a61d.zappy5.app/benefits
+https://example.com/benefits
 למה לסבול עוד יום? גלו את ההטבות הייחודיות של הטיפול המיידי בטחורים: הקלה מהירה, תוצאות מוכחות תוך 24 שעות ומרכיבים טבעיים. היכנסו עכשיו לדף ההטבות ולמדו איך זה עובד!
 
 ### אודות
-https://-1290a61d.zappy5.app/about
+https://example.com/about
 מי אנחנו ומה עומד מאחורי הטיפול בטחורים שמשנה חיים? הכירו את שמן הפלא, הפורמולה הייחודית שמביאה תוצאות תוך 24 שעות מרגע המריחה. קראו עוד על הסיפור והמחויבות שלנו לאיכות כאן!
 
 ### צור קשר
-https://-1290a61d.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלות על הטיפול המיידי בטחורים? צרו קשר עוד היום עם צוות שמן הפלא וקבלו ייעוץ אישי. אל תתנו לטחורים לנהל לכם את החיים — פנו אלינו עכשיו וקבלו מענה מהיר!
 
 ### Products
-https://-1290a61d.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - שמן הפלא
 
 ### Cart
-https://-1290a61d.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-1290a61d.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-1290a61d.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-1290a61d.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-1290a61d.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-1290a61d.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - שמן הפלא
 
 ### Category
-https://-1290a61d.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - שמן הפלא
 
 ### תודה שפניתם | שמן הפלא
-https://-1290a61d.zappy5.app/thank-you
+https://example.com/thank-you
 שמן הפלא - תודה שפניתם | שמן הפלא
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-1290a61d.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-1290a61d.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-1290a61d.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-1290a61d.zappy5.app/sitemap.xml
-- Robots: https://-1290a61d.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-1290a61d.zappy5.app/llms-full.txt
-- Products (JSON): https://-1290a61d.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-1290a61d.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
