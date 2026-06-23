@@ -1,0 +1,105 @@
+# שמן הפלא — Generative Engine Optimization Map
+
+> אפשר לעשות את מה שביקשתי רק בלי דש בורד
+
+---
+
+## Pages
+
+### בית
+https://-1290a61d.zappy5.app
+סובלים מטחורים? גלו את שמן הפלא שמביא תוצאות תוך 24 שעות מרגע המריחה. טיפול טבעי, מהיר ויעיל שיחזיר לכם את השקט. הקליקו עכשיו והתחילו להרגיש טוב יותר!
+
+### הטבות
+https://-1290a61d.zappy5.app/benefits
+למה לסבול עוד יום? גלו את ההטבות הייחודיות של הטיפול המיידי בטחורים: הקלה מהירה, תוצאות מוכחות תוך 24 שעות ומרכיבים טבעיים. היכנסו עכשיו לדף ההטבות ולמדו איך זה עובד!
+
+### אודות
+https://-1290a61d.zappy5.app/about
+מי אנחנו ומה עומד מאחורי הטיפול בטחורים שמשנה חיים? הכירו את שמן הפלא, הפורמולה הייחודית שמביאה תוצאות תוך 24 שעות מרגע המריחה. קראו עוד על הסיפור והמחויבות שלנו לאיכות כאן!
+
+### צור קשר
+https://-1290a61d.zappy5.app/contact
+יש לכם שאלות על הטיפול המיידי בטחורים? צרו קשר עוד היום עם צוות שמן הפלא וקבלו ייעוץ אישי. אל תתנו לטחורים לנהל לכם את החיים — פנו אלינו עכשיו וקבלו מענה מהיר!
+
+### Products
+https://-1290a61d.zappy5.app/products
+המוצרים שלנו - שמן הפלא
+
+### Cart
+https://-1290a61d.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-1290a61d.zappy5.app/checkout
+תשלום
+
+### Login
+https://-1290a61d.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-1290a61d.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-1290a61d.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-1290a61d.zappy5.app/product/:slug
+פרטי המוצר - שמן הפלא
+
+### Category
+https://-1290a61d.zappy5.app/category/:slug
+מוצרים - שמן הפלא
+
+### תודה שפניתם | שמן הפלא
+https://-1290a61d.zappy5.app/thank-you
+שמן הפלא - תודה שפניתם | שמן הפלא
+
+## Legal & Policy
+
+### Privacy Policy
+https://-1290a61d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-1290a61d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-1290a61d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שמן הפלא
+אפשר לעשות את מה שביקשתי רק בלי דש בורד
+
+## Target Audience
+- חובבי בריאות טבעית
+- צרכנים מודעים לסביבה
+- משפיעני בריאות ורווחה
+- הסובלים מתחורים
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-1290a61d.zappy5.app/sitemap.xml
+- Robots: https://-1290a61d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-1290a61d.zappy5.app/llms-full.txt
+- Products (JSON): https://-1290a61d.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-1290a61d.zappy5.app/product-feed.xml
